@@ -1,0 +1,7 @@
+{
+  "env": {
+    "name": "prod"
+  },
+  "appRoot": "/ar-test/assets/"
+}
+

@@ -1,0 +1,6 @@
+{
+  "env": {
+    "name": "local"
+  },
+  "appRoot": "/assets/"
+}
