@@ -2,5 +2,7 @@
   "env": {
     "name": "local"
   },
-  "appRoot": "/assets/"
+  "appRoot": "/assets/",
+  "fBAppId": "3029461310663857",
+  "fBAPIv": "v12.0"
 }
