@@ -2,7 +2,7 @@
   "env": {
     "name": "local"
   },
-  "appRoot": "/assets/",
+  "appRoot": "/ar-test/assets/",
   "fBAppId": "3029461310663857",
   "fBAPIv": "v12.0"
 }
