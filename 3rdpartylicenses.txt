@@ -32,6 +32,9 @@ MIT
 @angular/core
 MIT
 
+@angular/forms
+MIT
+
 @angular/platform-browser
 MIT
 
@@ -97,6 +100,9 @@ ngx-device-detector
 MIT
 
 ngx-facebook-fb
+MIT
+
+ngx-pixel
 MIT
 
 ngx-quicklink
